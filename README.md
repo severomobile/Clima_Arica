@@ -19,3 +19,10 @@ Para ejecutar este proyecto, necesitarás las siguientes librerías de Python:
 - Matplotlib
 
 Puedes instalar estas librerías usando pip install.
+
+## Uso
+
+Para ejecutar el análisis, sigue estos pasos:
+
+1. Coloca tu archivo de datos CSV en el directorio del proyecto o actualiza la ruta del archivo en el script.
+2. Ejecuta el script Clima_Arica.py con Python
