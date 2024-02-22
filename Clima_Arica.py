@@ -60,7 +60,7 @@ def calcular_correlacion(datos):
 
 if __name__ == "__main__":
     # Cargar datos
-    datos = cargar_datos('C:/Users/jose_/OneDrive/Escritorio/agrometeorologia-20240222121632.csv')
+    datos = cargar_datos('C:/Users/jose_/OneDrive/Escritorio/Clima_Arica/agrometeorologia-20240222121632.csv')
     # Limpiar datos
     datos_limpios = limpiar_datos(datos)
     # Limpiar fechas
